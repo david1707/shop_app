@@ -6,7 +6,7 @@ import '../providers/orders.dart' show Orders;
 import '../widgets/order_item.dart';
 
 class OrdersScreen extends StatelessWidget {
-  static const routedName = '/orders';
+  static const routeName = '/orders';
 
   @override
   Widget build(BuildContext context) {
